@@ -98,7 +98,7 @@ app
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'endpoint-flux'
+gem 'endpoint-flux', require: 'endpoint_flux'
 ```
 
 And then execute:
@@ -111,6 +111,11 @@ Or install it yourself as:
 $ gem install endpoint-flux
 ```
 
+Run rake task to generate project structure
+```bash
+$ rails endpoint_flux:init
+```
+It will add a new dir `app/endpoint_flux` and new initializer `config/initializers/endpoint_flux.rb`
 
 ### Configuration
 
