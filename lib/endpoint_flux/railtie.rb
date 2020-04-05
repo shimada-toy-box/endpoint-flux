@@ -1,4 +1,4 @@
-class RakeGem::Railtie < Rails::Railtie
+class EndpointFlux::Railtie < Rails::Railtie
   rake_tasks do
     load 'tasks/init.rake'
   end
