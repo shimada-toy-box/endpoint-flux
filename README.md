@@ -98,7 +98,7 @@ app
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'endpoint-flux'
+gem 'endpoint-flux', require: 'endpoint_flux'
 ```
 
 And then execute:
