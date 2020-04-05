@@ -5,6 +5,8 @@ require 'endpoint_flux/endpoint'
 require 'endpoint_flux/exceptions'
 require 'endpoint_flux/middlewares'
 
+require "endpoint_flux/railtie" if defined?(Rails)
+
 module EndpointFlux
   module_function
 
