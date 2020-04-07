@@ -101,6 +101,11 @@ Add this line to your application's Gemfile:
 gem 'endpoint-flux', require: 'endpoint_flux'
 ```
 
+For a latest versvion
+```ruby
+gem 'endpoint-flux', git: 'https://github.com/pavelkvasnikov/endpoint-flux.git', require: 'endpoint_flux'
+```
+
 And then execute:
 ```bash
 $ bundle install
@@ -111,7 +116,7 @@ Or install it yourself as:
 $ gem install endpoint-flux
 ```
 
-Run rake task to generate project structure
+Run rake task to generate project structure (currently available in a latest version)
 ```bash
 $ rails endpoint_flux:init
 ```
