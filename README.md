@@ -3,7 +3,7 @@ A simple way to organise API endpoints
 
 **Feedback is welcome**
 
-**Stars are welcome**
+💚💚💚 **Stars are welcome** 💚💚💚
 
 Telegram group https://t.me/endpoint_flux
 
