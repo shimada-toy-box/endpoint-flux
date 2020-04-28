@@ -5,7 +5,7 @@ A simple way to organise API endpoints
 
 💚💚💚 **Stars are welcome** 💚💚💚
 
-Telegram group https://t.me/endpoint_flux
+Telegram group  https://t.me/endpoint_flux
 
 ![Logo](https://github.com/pavelkvasnikov/endpoint-flux/blob/master/logo.svg)
 
