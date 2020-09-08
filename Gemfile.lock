@@ -7,7 +7,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     byebug (11.1.1)
-    codecov (0.1.16)
+    codecov (0.2.11)
       json
       simplecov
       url
