@@ -1,7 +1,7 @@
 require_relative 'lib/endpoint_flux/version' # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = 'endpoint-flux'
+  s.name          = 'endpoint-flux2'
   s.version       = EndpointFlux::VERSION
   s.summary       = 'EndpointFlux!'
   s.description   = 'A simple way to organise API endpoints'
