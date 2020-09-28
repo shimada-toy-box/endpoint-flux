@@ -14,7 +14,7 @@ on:
     branches: [ master, develop ]
 
 jobs:
-  test-2.7:
+  test-27:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -30,7 +30,7 @@ jobs:
       - name: Run tests
         run: bundle exec rspec --format progress
 
-  test-2.6:
+  test-26:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -46,7 +46,7 @@ jobs:
     - name: Run tests
       run: bundle exec rspec --format progress
 
-  test-2.5:
+  test-25:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -62,7 +62,7 @@ jobs:
       - name: Run tests
         run: bundle exec rspec --format progress
 
-  test-2.4:
+  test-24:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
