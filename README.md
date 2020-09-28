@@ -98,12 +98,12 @@ app
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'endpoint-flux', require: 'endpoint_flux'
+gem 'endpoint-flux2', require: 'endpoint_flux'
 ```
 
 For a latest versvion
 ```ruby
-gem 'endpoint-flux', git: 'https://github.com/pavelkvasnikov/endpoint-flux.git', require: 'endpoint_flux'
+gem 'endpoint-flux2', git: 'https://github.com/pavelkvasnikov/endpoint-flux.git', require: 'endpoint_flux'
 ```
 
 And then execute:
@@ -113,7 +113,7 @@ $ bundle install
 
 Or install it yourself as:
 ```bash
-$ gem install endpoint-flux
+$ gem install endpoint-flux2
 ```
 
 Run rake task to generate project structure (currently available in a latest version)
