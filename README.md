@@ -9,7 +9,7 @@ Telegram group  https://t.me/endpoint_flux
 
 ![Logo](https://svgshare.com/i/PQo.svg)
 
-[![Gem Version](https://badge.fury.io/rb/endpoint-flux.svg)](http://badge.fury.io/rb/endpoint-flux)
+[![Gem Version](https://badge.fury.io/rb/endpoint-flux2.svg)](https://badge.fury.io/rb/endpoint-flux2)
 
 [![CircleCI](https://circleci.com/gh/pavelkvasnikov/endpoint-flux.svg?style=svg)](https://app.circleci.com/pipelines/github/pavelkvasnikov/endpoint-flux)
 
