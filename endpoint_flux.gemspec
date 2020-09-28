@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage      = 'https://github.com/pavelkvasnikov/endpoint-flux'
   s.license       = 'MIT'
   s.required_ruby_version = '>= 2.5.3'
+  s.metadata = { "github_repo" => "ssh://github.com/pavelkvasnikov/endpoint-flux" }
 
   s.add_development_dependency 'byebug', '>= 9.0'
   s.add_development_dependency 'rspec', '>= 3.5.0'
